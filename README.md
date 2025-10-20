@@ -14,17 +14,12 @@ A Property and Machinery rental and sales software
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
 
 ## Demo
-[Live Demo Link](https://yourdomain.epizy.com) *(replace with your live site URL)*
+[Live Demo Link](https://zemenassets.lovestoblog.com/) 
 
 ---
 
@@ -53,3 +48,10 @@ A Property and Machinery rental and sales software
    ```bash
    git clone https://github.com/yourusername/propertyhub.git
    cd propertyhub
+
+---
+
+## Contact
+- [Email](mailto:kalupt9999@gmail.com)
+- [Phone](+251953345801)
+- [Linkedin](https://www.linkedin.com/in/kalab-tadesse)
