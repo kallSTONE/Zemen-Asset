@@ -3,7 +3,7 @@ A Property and Machinery rental and sales software
 
 # PropertyHub - Real Estate Platform
 
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/8cdb4f8e-b39d-44a7-b482-e046f608d1df" />
+<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/96889e95-90d8-4ea5-b246-c69de4e686f4" />
 
 
 ## 🖼 Homepage Preview
