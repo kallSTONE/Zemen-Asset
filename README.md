@@ -8,7 +8,7 @@ A Property and Machinery rental and sales software
 
 ## 🖼 Homepage Preview
 
-![Homepage Screenshot](Zemen-Asset/Zemen-Assets/assets/images/Zemen-screenshot.png)
+![Homepage Screenshot](Zemen-Asset/Zemen-Assets/assets/images/Zemen-Screenshot.png)
 
 
 **PropertyHub** is a modern, user-friendly web application built with PHP and MySQL that allows users to buy, rent, and sell properties. It features verified listings, advanced search, and direct contact with property owners and agents.
