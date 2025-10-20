@@ -1,15 +1,8 @@
-# Zemen-Asset
+# <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/96889e95-90d8-4ea5-b246-c69de4e686f4" />
+Zemen-Asset
 A Property and Machinery rental and sales software
 
-# PropertyHub - Real Estate Platform
-
-<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/96889e95-90d8-4ea5-b246-c69de4e686f4" />
-
-
-## 🖼 Homepage Preview
-
-<img width="1000" height="434" alt="Image" src="https://github.com/user-attachments/assets/705b3040-db15-41c1-9a7e-9715e9e5c1e6" />
-
+<img width="3780" height="1890" alt="Image" src="https://github.com/user-attachments/assets/1beccb8c-0a6d-4e22-9018-0fcd630865d8" />
 
 **PropertyHub** is a modern, user-friendly web application built with PHP and MySQL that allows users to buy, rent, and sell properties. It features verified listings, advanced search, and direct contact with property owners and agents.
 
