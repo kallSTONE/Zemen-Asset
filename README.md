@@ -3,7 +3,7 @@ A Property and Machinery rental and sales software
 
 # PropertyHub - Real Estate Platform
 
-![PropertyHub Logo](Zemen-Asset/Zemen-Assets/assets/images/logo-icon-dark.png)
+![PropertyHub Logo](Zemen-Assets/assets/images/logo-icon-dark.png)
 
 
 ## 🖼 Homepage Preview
