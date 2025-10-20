@@ -1,6 +1,7 @@
-<img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/96889e95-90d8-4ea5-b246-c69de4e686f4" /> # Zemen-Asset
-
+# Zemen-Asset
 A Property and Machinery rental and sales software
+
+<img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/96889e95-90d8-4ea5-b246-c69de4e686f4" /> 
 
 <img width="3780" height="1890" alt="Image" src="https://github.com/user-attachments/assets/1beccb8c-0a6d-4e22-9018-0fcd630865d8" />
 
