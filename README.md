@@ -8,7 +8,7 @@ A Property and Machinery rental and sales software
 
 ## 🖼 Homepage Preview
 
-<img width="1066" height="334" alt="Image" src="https://github.com/user-attachments/assets/705b3040-db15-41c1-9a7e-9715e9e5c1e6" />
+<img width="1000" height="434" alt="Image" src="https://github.com/user-attachments/assets/705b3040-db15-41c1-9a7e-9715e9e5c1e6" />
 
 
 **PropertyHub** is a modern, user-friendly web application built with PHP and MySQL that allows users to buy, rent, and sell properties. It features verified listings, advanced search, and direct contact with property owners and agents.
